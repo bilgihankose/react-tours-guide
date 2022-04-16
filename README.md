@@ -9,7 +9,7 @@ https://bilgihankose.github.io/react-tours-guide/
 Clone the project
 
 ```bash
-  git clone https://github.com/bilgihankose/freact-tours-guide
+  git clone https://github.com/bilgihankose/react-tours-guide
 ```
 
 Go to the project directory
