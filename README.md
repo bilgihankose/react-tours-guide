@@ -9,13 +9,13 @@ https://bilgihankose.github.io/react-tours-guide/
 Clone the project
 
 ```bash
-  git clone https://github.com/bilgihankose/food-order-app
+  git clone https://github.com/bilgihankose/freact-tours-guide
 ```
 
 Go to the project directory
 
 ```bash
-  cd food-order-app
+  cd freact-tours-guide
 ```
 
 Install dependencies
